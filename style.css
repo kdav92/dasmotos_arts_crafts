@@ -1,0 +1,42 @@
+.container {
+   text-align: center;
+    position: relative;
+    display: inline-block;
+}
+
+
+.header {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+}
+
+
+#headings {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.blue_font {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
